@@ -1,1 +1,1 @@
-##### Bayesian Statistics, including various MCMC Sampling approaches, Daignosis, and Bayesian Models (Multivariate Regression, LJK Prior, Gaussian Mixture, Gaussian Processes, and Variational Inference.)
+##### Bayesian Statistics, including various MCMC Sampling approaches (Gibbs, Metropolist Hasting (MH), Hamiltonian MC, and MH with Gibbs), Daignosis, and Bayesian Models (Multivariate Regression, LJK Prior, Gaussian Mixture, Gaussian Processes, and Variational Inference.)
