@@ -1,1 +1,1 @@
-# PythonProject_Bayesian
+# Bayesian Statistics, including various MCMC Sampling approaches, Daignosis, and Bayesian Models (Multivariate Regression, LJK Prior, Gaussian Mixture, Gaussian Processes, and Variational Inference.)
